@@ -76,7 +76,29 @@
         "top_speed": "130 km/h",
         "category": "Dual-sport",
         "likes": 3
-      }
+      },
+      {
+        "id": 8,
+        "name": "Suzuki Gixxer 250 SF",
+        "image": "images/Suzuki-Gixxer250SF.jpg",
+        "price": 400000,
+        "description": "A stylish and sporty 250cc bike with smooth power delivery.",
+        "engine": "249cc, Single-cylinder",
+        "top_speed": "150 km/h",
+        "category": "Mid-range",
+        "likes": 5
+    },
+    {
+        "id": 9,
+        "name": "CFMOTO 300SR",
+        "image": "images/CFMOTO-300SR.png",
+        "price": 470000,
+        "description": "A sleek and powerful full-fairing 300cc sportsbike.",
+        "engine": "292cc, Single-cylinder",
+        "top_speed": "165 km/h",
+        "category": "Mid-range",
+        "likes": 6
+    }
     ]
   }
   

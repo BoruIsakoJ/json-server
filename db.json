@@ -8,7 +8,8 @@
         "description": "A stylish and lightweight sportsbike ideal for city rides.",
         "engine": "149cc, Single-cylinder",
         "top_speed": "120 km/h",
-        "category": "Entry-level"
+        "category": "Entry-level",
+        "likes": 3
       },
       {
         "id": 2,
@@ -18,7 +19,8 @@
         "description": "A powerful and stylish 300cc sportsbike with great performance.",
         "engine": "292cc, Single-cylinder",
         "top_speed": "160 km/h",
-        "category": "Mid-range"
+        "category": "Mid-range",
+        "likes": 4
       },
       {
         "id": 3,
@@ -28,7 +30,8 @@
         "description": "A high-performance sportsbike known for its speed and agility.",
         "engine": "599cc, Inline-4",
         "top_speed": "250 km/h",
-        "category": "Superbike"
+        "category": "Superbike",
+        "likes": 15
       },
       {
         "id": 4,
@@ -38,7 +41,8 @@
         "description": "A lightweight yet powerful bike with smooth handling.",
         "engine": "399cc, Twin-cylinder",
         "top_speed": "190 km/h",
-        "category": "Mid-range"
+        "category": "Mid-range",
+        "likes": 9
       },
       {
         "id": 5,
@@ -48,7 +52,8 @@
         "description": "An aggressive streetfighter with sharp design and high torque.",
         "engine": "373cc, Single-cylinder",
         "top_speed": "170 km/h",
-        "category": "Mid-range"
+        "category": "Mid-range",
+        "likes":7
       },
       {
         "id": 6,
@@ -58,7 +63,8 @@
         "description": "A budget-friendly 250cc sportsbike with impressive styling.",
         "engine": "250cc, Single-cylinder",
         "top_speed": "140 km/h",
-        "category": "Entry-level"
+        "category": "Entry-level",
+        "likes": 3
       },
       {
         "id": 7,
@@ -68,7 +74,8 @@
         "description": "A dual-purpose bike designed for both on-road and off-road adventures.",
         "engine": "250cc, Single-cylinder",
         "top_speed": "130 km/h",
-        "category": "Dual-sport"
+        "category": "Dual-sport",
+        "likes": 3
       }
     ]
   }
